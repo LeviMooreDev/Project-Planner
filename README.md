@@ -7,6 +7,7 @@ While studying computer science I created a planning tool named Project Planner 
 I don't plan to actively work on it anymore, but still feel free to contact me or create an issue if you have questions or suggestions. Hope you find it useful for planning your next game in Unity or just learning from it.
 
 ![Project Planner Image](https://github.com/LeviMooreDev/Project-Planner/blob/master/readme%20image.png)
+## [Youtube Video](https://www.youtube.com/watch?v=eaSO7R-v7X8)
 
 <!-- How to install -->
 # How to install

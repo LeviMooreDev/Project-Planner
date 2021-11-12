@@ -13,7 +13,7 @@ I don't plan to actively work on it anymore, but still feel free to contact me o
 # How to install
 Before installing Project Planner, make sure asset serialization mode is set to “Force Text”. You can find the setting here “Edit->Project Settings->Editor->Asset Serialization”.
 
-To install Project Planner you can either download the entire project from GitHub and copy the Project Planner root folder into your own Assets folder. You can also (recommended) download the [`Project Planner 1.5.unitypackage`](https://github.com/LeviMooreDev/Project-Planner/blob/master/Project%20Planner%201.5.unitypackage) file and import that into your unity project.
+To install Project Planner, download the [`Project Planner 1.5.unitypackage`](https://github.com/LeviMooreDev/Project-Planner/blob/master/Project%20Planner%201.5.unitypackage) file and import that into your Unity project. Alternatively, you can download the entire project from GitHub and copy the Project Planner root folder into your project's Assets folder.
 
 <!-- Manual -->
 # Manual
